@@ -1,0 +1,15 @@
+#musicas {
+  margin-left: 100px;
+  margin-right: 500px;
+  padding: 30px 100px;
+  font-size: 20px;
+  text-align: start;
+  border: 2px black solid;
+  width: 400px;
+}
+
+#titulo {
+  text-align: start;
+  margin-left: 200px;
+  margin-top: 100px;
+}

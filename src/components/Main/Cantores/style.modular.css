@@ -1,0 +1,10 @@
+.cantores {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  text-align: center;
+}
+
+#li {
+  text-align: center;
+}
